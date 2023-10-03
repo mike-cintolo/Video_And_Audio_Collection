@@ -30,7 +30,7 @@ This project showcases my data collection, web scraping, database design, and da
 - Wrote Python scripts to parse file names and populate the database with metadata.
 - Established relationships between tables to facilitate data retrieval.
 
-![Database Diagram](https://github.com/mike-cintolo/Video_Audio_Collection/blob/main/Entertainment_ER_Diagram.png)
+![Database Diagram](https://github.com/mike-cintolo/Video_And_Audio_Collection/blob/main/Entertainment_ER_Diagram.png)
 
  
 
