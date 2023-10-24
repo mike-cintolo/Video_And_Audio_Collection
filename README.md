@@ -5,13 +5,13 @@ Programs to manage my Audio and Video Collection.
 
 ## Overview
 
-This project showcases my data collection, web scraping, database design, and data analysis expertise. I collected and analyzed a diverse dataset of video and audio files from various sources, including TV shows, old-time radio programs, movies, music, and audiobooks. This README provides an overview of the project and its key components.
+This project showcases my expertise in data collection, web scraping, database design, and data analysis. I collected and analyzed a diverse dataset of video and audio files from various sources, including TV shows, old-time radio programs, movies, music, and audiobooks. This README provides an overview of the project and its key components.
 
 ## Project Components
 
 ### Data Collection and Cleaning
 
-- Collected 1.8 terabytes of multimedia data from a wide range of sources.
+- Collected almost 2 terabytes of multimedia data from various sources.
 - Developed a rigorous naming standard to organize and categorize files.
 - Utilized Python scripts to automate the cleaning and preparation of data.
 - Ensured data quality and consistency by researching and cleaning file names.
