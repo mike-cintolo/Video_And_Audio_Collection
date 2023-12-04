@@ -11,7 +11,7 @@ This project showcases my data collection, web scraping, database design, and da
 
 ### Data Collection and Cleaning
 
-- Collected over five terabytes of multimedia data from various sources.
+- Collected over four terabytes of multimedia data from various sources.
 - Developed a rigorous naming standard to organize and categorize files.
 - Utilized Python scripts to automate the cleaning and preparation of data.
 - Ensured data quality and consistency by researching and cleaning file names.
