@@ -46,7 +46,7 @@ This project showcases my expertise in data collection, web scraping, database d
 - Data visualization libraries such as Matplotlib and Seaborn for creating visualizations.
 - Web scraping tools and APIs for data collection.
 - Other relevant libraries and tools as needed for specific tasks.
-- Tableau and R for data visualization.
+- Tableau, Python, and R are used for data visualization.
 
 ## Project Impact
 
